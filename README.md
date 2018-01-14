@@ -1,2 +1,2 @@
 # CurrentlyBot
-HALLO
+ the coding for the bot is unfinished still need to add more commands...
